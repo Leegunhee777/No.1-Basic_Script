@@ -1,0 +1,156 @@
+{
+    "login":{
+        "action":"로그인 후 접속가능합니다.",
+        "usename":"아이디",
+        "password":"비밀번호",
+        "signIn":"로그인",
+        "Default Language":"언어설정",
+        "English":"영어",
+        "Korean":"한국어"       
+    },
+    "header":{
+        "left":{
+            "Dashboard":"게시판",
+            "Profile":"프로필"
+        },
+        "right":{
+            "Settings":"설정",
+            "English":"영어",
+            "Korean":"한국어",
+            "beta":"테마",
+            "Notifications":"알림",
+            "No New Notifications":"새로운 알림이 없습니다.",
+            "My Account": "나의계정",
+            "Log Out":"로그아웃"
+            
+        },
+        "below":{
+            "Dashboard":"게시판",
+            "Home":"홈",
+            "Coach":"코치//삭제해버려도되는부분이다."
+        }
+    },
+    "Dashboard":{
+        "New Patients":{
+            "New Patients":"신규 고객",
+            "ID":"아이디",
+            "App":"앱",
+            "Patient Name":"고객명",
+            "Program Title":"프로그램명",
+            "Enrolled Date":"가입날짜",
+            "Status":"상태",
+            "Actions":"이동"
+        },
+        "No new Messages":{
+            "No new messages":"신규 메세지가 없습니다."
+        },
+        "Here's What you have planned":"일정 계획표//삭제해버려도되는부분이다.",
+        "TOGGLE WEEKENDS":"주말포함/비포함//삭제해버려도되는부분이다.",
+        "NEW EVENT":"일정추가"    
+    },
+    "Profile":{
+        "Profile":"상담",
+        "Tab":{
+            "IN PROGRESS":{
+                "IN PROGRESS":"진행중",
+                "Program History Id":"프로그램 아이디",
+                "Program":"프로그램",
+                "Wk/Day":"주차/일자",
+                "Status":"진행상태",
+                "Unread":"미확인 메세지",
+                "Name":"이름",
+                "Appointment":"전화 예약일",
+                "Feedback":"피드백",
+                "Start Date":"시작일",
+                "End Date":"종료일"
+            },
+            "PENDING":{
+                "PPENDING":"대기"
+            },
+            "ALL PATIENTS":"모든 고객정보",
+            "PROGRAMS":{
+                "Programs":"프로그램",
+                "Id":"아이디",
+                "App":"앱",
+                "Title":"프로그램명",
+                "Description":"설명",
+                "Status":"상태",
+                "Aciton":"수정/이동"
+            },
+            "NOTICES":{
+                "Notice":"공지사항",
+                "Period":"공지 기간",
+                "Create":"작성",
+                "Edit":"수정"
+            },
+            "MISSIONS":{
+                "MISSIONS":"미션",
+                "Public Missions":"공통 미션",
+                "Owner":"발송자",
+                "Title":"제목",
+                "Assign Type":"할당 구분",
+                "Actions":"수정"
+            }
+        }
+    },
+    "Patient Profile":{
+        "Parient Profile":"고객 프로필",
+        "subHeader":{
+            "Program":"프로그램",
+            "Name":"이름",
+            "Gender":"Gender",
+            "Birth Date":"생년월일",
+            "Age":"나이",
+            "BMI":"체질량지수(BMI)",
+            "Height":"Height",
+            "wt":"Wt",
+            "Ideal Wt":"표준체중(IBW)",
+            "PIBW%":"표준체중 백분율(PIBW)",
+            "Daily Kcal":"기초 대사량",
+            "Start Date":"시작일",
+            "Days":"주차/기간"
+        },
+        "Tab":{
+            "TIMELINE":{
+                "TIMELINE":"식사기록"
+            },
+            "SUMMARY":{
+                "SUMMARY":"고객 데이터",
+                "DATED":"날짜",
+                "Nutrients Intake Trend":"영양소별 섭취량",
+                "Meal Type Trend":"식사 열량 비중",
+                "User Weight Trend":"체중 변화 분석",
+                "Nutrients Trend":"3대 영양소 비중",
+                "Frequent Foods":"자주먹는 식품"
+            },
+            "APPOINTMENT":{
+                "APPOINTMENT":"전화 예약일",
+                "Appointment Detail":"상세 정보",
+                "Appointment Not Yet Made":"현재 예약 일정이 없습니다."
+            },
+            "CALL":{
+                "CALL":"전화연결"
+            },
+            "FEEDBACK":{
+                "FEEDBACK":"피드백"
+            },
+            "MISSIONS":{
+                "MISSIONS":"미션",
+                "CREATE MISSION":"작성하기",
+                "ASSING MISSION":"할당하기"
+            },
+            "MISSION HISTORY":{
+                "MISSION HISTORY":"미션이력"
+            },
+            "SURVEY":{
+                "SURVEY":"설문조사"
+            },
+            "PROGRAM STATUS":{
+                "PROGRAM STATUS":"진행상태"
+            }
+            
+        }
+    }
+
+    
+}
